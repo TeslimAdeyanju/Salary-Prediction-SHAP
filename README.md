@@ -103,7 +103,7 @@ requirements.txt
 employment_analysis.py
 job_exp_analysis.py
 docs/
-    legacy-readme.md
+    legacy_readme.md
 ```
 
 Additional `__pycache__/` files are present in the repository. These compiled Python files are normally excluded from version control.
@@ -141,4 +141,4 @@ Observed salary data may reflect geographic differences, sampling effects and hi
 **Teslim Adeyanju**  
 [GitHub](https://github.com/TeslimAdeyanju) | [Portfolio](https://adeyanjuteslim.co.uk) | [LinkedIn](https://www.linkedin.com/in/adeyanjuteslimuthman)
 
-[Original README archive](docs/legacy-readme.md)
+[Original README archive](docs/legacy_readme.md)
